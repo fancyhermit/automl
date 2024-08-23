@@ -1,0 +1,13 @@
+pandas 
+h2o 
+transformers 
+torch 
+Pillow 
+numpy 
+librosa 
+torchvision 
+scikit-learn 
+ipywidgets 
+matplotlib 
+opencv-python 
+streamlit
